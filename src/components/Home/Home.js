@@ -40,7 +40,7 @@ const Home = () => {
     }
     //toast msg 
     const toastMessage = () =>{
-        toast('WOW YOUR EXCERCIES IS FINISHED')
+        toast('CONGRATULATION YOUR EXCERCIES IS FINISHED')
     }
     return (
         <div>
