@@ -45,7 +45,7 @@ const Home = () => {
     return (
         <div>
             <div  className='header-title'>
-                <h2 className="web-title"> <MdSportsCricket/> Regular-Cricket-Activities</h2>
+                <h2 className="web-title"> <MdSportsCricket/>Cricket-Activities</h2>
             </div>
             <div  className="main-container">
                 <div className="card-container">
