@@ -58,7 +58,7 @@ const Home = () => {
                         <img src={user} alt="" />
                         <p>Name : Neasher Ahmed</p>
                     </div>
-                    <p className='location'>Jessore, Khulna, BD</p>
+                    <p className='location'>Pabna, Bangladesh</p>
                     <div className="personal-info">
                         <h5>W-75KG</h5>
                         <h5>H-6.2 Inch</h5>
