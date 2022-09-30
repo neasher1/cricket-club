@@ -77,10 +77,10 @@ const Home = () => {
                     <div className="excercies">
                         <ExcerciesTime breakTime={breakTime} totalTime ={totalTime}></ExcerciesTime>
                     </div>
+                    <ToastContainer />
                     <div className=''>
                         <button onClick={toastMessage} className='btn finish-btn'>Finish Excercise</button>
                     </div>
-                    <ToastContainer />
                 </div>
             </div>
         </div>
