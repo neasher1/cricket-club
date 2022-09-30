@@ -56,7 +56,7 @@ const Home = () => {
                 <div className="profile-container">
                     <div className="profile-name">
                         <img src={user} alt="" />
-                        <p>Name : Fahim Muntasir Orin</p>
+                        <p>Name : Neasher Ahmed</p>
                     </div>
                     <p className='location'>Jessore, Khulna, BD</p>
                     <div className="personal-info">
