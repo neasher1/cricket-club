@@ -1,0 +1,32 @@
+[
+    {
+        "image":"https://www.cricketvictoria.com.au/wp-content/uploads/2018/01/drills-batting.png",
+        "name":"batting Drilling",
+        "timeRequired":10
+    },
+    {
+        "image":"https://www.cricketbio.com/wp-content/uploads/2020/11/seam-in-cricket.jpg",
+        "name":"Seam Bowling",
+        "timeRequired":15
+    },
+    {
+        "image":"https://www.usacricket.org/wp-content/uploads/2018/03/catching-caterpillar.jpg",
+        "name":"caterpillar catch",
+        "timeRequired":20
+    },
+    {
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/313600/313627.4.jpg",
+        "name":"Fielding Drilling",
+        "timeRequired":15
+    },
+    {
+        "image":"https://www.cricketvictoria.com.au/wp-content/uploads/2018/01/drills-continuous.png",
+        "name":"Continiue playing",
+        "timeRequired":10
+    },
+    {
+        "image":"https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_640,q_50/lsci/db/PICTURES/CMS/346500/346541.6.png",
+        "name":"Team Rapid Fire",
+        "timeRequired":10
+    }
+]
