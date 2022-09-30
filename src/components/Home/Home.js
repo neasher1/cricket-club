@@ -62,7 +62,7 @@ const Home = () => {
                     <div className="personal-info">
                         <h5>W-65KG</h5>
                         <h5>H-6.2 Inch</h5>
-                        <h5>Age-25</h5>
+                        <h5>Age-26</h5>
                     </div>
                     <div className="add-break">
                         <h2>Add A Break </h2>
